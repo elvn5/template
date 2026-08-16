@@ -13,7 +13,7 @@
 
 ## Tech Stack
 - **Backend:** Node.js v24, Next.js / Express, TypeORM, PostgreSQL, Axios, Socket.io, CORS, Docker
-- **Frontend:** Nuxt 3, Pinia (+ persistedstate), @nuxt/ui, Tailwind CSS, Nuxt Icon, @nuxtjs/seo, @nuxtjs/i18n, @vueuse/nuxt
+- **Frontend:** Nuxt 3, Pinia (+ persistedstate), @nuxt/ui, Tailwind CSS, Nuxt Icon, @nuxtjs/seo, @nuxtjs/i18n, @vueuse/nuxt, @tanstack/vue-query
 - **Linter/Formatter:** Biome
 
 ## Commands
