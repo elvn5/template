@@ -1,7 +1,7 @@
+import { timingSafeEqual } from 'node:crypto';
 import { Injectable, UnauthorizedException } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
 import { JwtService } from '@nestjs/jwt';
-import { timingSafeEqual } from 'node:crypto';
 
 @Injectable()
 export class AuthService {
